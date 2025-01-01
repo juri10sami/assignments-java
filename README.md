@@ -59,7 +59,3 @@ Here's a revised version of the README file, eliminating redundancies and organi
 ### **Geometry and Simulation**
 - Simulated dice rolls and identified patterns like lucky nines and snake eyes (`DiceTest`).
 - Calculated geometric properties dynamically based on user inputs in `assignment3`.
-
----
-
-This version consolidates overlapping points and groups similar skills together for better readability and clarity. It provides a comprehensive overview without repeating the same ideas under different sections. Let me know if further refinements are needed!
